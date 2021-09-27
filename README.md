@@ -1,5 +1,5 @@
 ```bash
-npm i dexterdai-cli
+npm install -g dexterdai-cli
 ```
 
 
